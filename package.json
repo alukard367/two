@@ -13,10 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alukard367/two/html-folder/index.html"
-  },
-  "homepage": "https://alukard367.github.io/two/html-folder/index.html",
+  "homepage": "https://alukard367.github.io/two/html-folder/main.html",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
