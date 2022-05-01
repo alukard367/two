@@ -1,0 +1,23 @@
+{
+  "name": "two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alukard367/two.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alukard367/two/issues"
+  },
+  "homepage": "https://alukard367.github.io/two",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
