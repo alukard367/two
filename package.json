@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alukard367/two/issues"
+    "url": "https://github.com/alukard367/two/html-folder/index.html"
   },
-  "homepage": "https://alukard367.github.io/two",
+  "homepage": "https://alukard367.github.io/two/html-folder/index.html",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
